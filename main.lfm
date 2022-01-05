@@ -1,0 +1,78 @@
+object Form1: TForm1
+  Left = 482
+  Height = 425
+  Top = 188
+  Width = 780
+  Caption = 'Form1'
+  ClientHeight = 405
+  ClientWidth = 780
+  Menu = MainMenu
+  OnCreate = FormCreate
+  LCLVersion = '2.0.12.0'
+  object Memo: TRichMemo
+    AnchorSideLeft.Control = Owner
+    AnchorSideTop.Control = Owner
+    AnchorSideRight.Control = Owner
+    AnchorSideRight.Side = asrBottom
+    AnchorSideBottom.Control = Owner
+    AnchorSideBottom.Side = asrBottom
+    Left = 0
+    Height = 405
+    Top = 0
+    Width = 780
+    Anchors = [akTop, akLeft, akRight, akBottom]
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -15
+    Font.Name = 'Roboto Mono'
+    Font.Pitch = fpFixed
+    Font.Quality = fqDraft
+    HideSelection = False
+    ParentFont = False
+    TabOrder = 0
+    ZoomFactor = 1
+  end
+  object MainMenu: TMainMenu
+    Left = 72
+    Top = 53
+    object MenuFile: TMenuItem
+      Caption = 'File'
+      OnClick = MenuFileClick
+      object MenuOpen: TMenuItem
+        Caption = 'Open'
+        OnClick = MenuOpenClick
+      end
+      object MenuSave: TMenuItem
+        Caption = 'Save'
+        Enabled = False
+        OnClick = MenuSaveClick
+      end
+      object MenuSaveAs: TMenuItem
+        Caption = 'Save as'
+        OnClick = MenuSaveAsClick
+      end
+      object MenuRevert: TMenuItem
+        Caption = 'Revert'
+        OnClick = MenuRevertClick
+      end
+    end
+    object MenuRun: TMenuItem
+      Caption = 'Run'
+      OnClick = MenuRunClick
+    end
+  end
+  object OpenDialog: TOpenDialog
+    DefaultExt = '.ch'
+    Filter = 'Charm scripts|*.ch'
+    InitialDir = 'C:\Users\owner\Documents\Charm\Charm scripts'
+    Left = 184
+    Top = 113
+  end
+  object SaveDialog: TSaveDialog
+    DefaultExt = '.ch'
+    Filter = 'Charm scripts|*.ch'
+    InitialDir = 'C:\Users\owner\Documents\Charm\Charm scripts'
+    Left = 341
+    Top = 147
+  end
+end

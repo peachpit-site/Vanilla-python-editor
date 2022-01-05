@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="10">
+      <Unit0>
+        <Filename Value="Scribe.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="38" Y="10"/>
+        <UsageCount Value="78"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Main"/>
+        <IsVisibleTab Value="True"/>
+        <UsageCount Value="78"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="pythonmemo.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="PythonMemo"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="309"/>
+        <CursorPos X="23" Y="320"/>
+        <UsageCount Value="78"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="filehandle.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="FileHandle"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="7"/>
+        <CursorPos X="39" Y="14"/>
+        <UsageCount Value="73"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\Peach project\Peach main source code\main.pas"/>
+        <UnitName Value="Main"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="17" Y="4"/>
+        <UsageCount Value="4"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\Peach project\Peach main source code\Packages\richmemo\richmemo.pas"/>
+        <UnitName Value="RichMemo"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="88"/>
+        <CursorPos Y="100"/>
+        <UsageCount Value="4"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\Peach project\Peach main source code\Packages\richmemo\richmemoutils.pas"/>
+        <UnitName Value="RichMemoUtils"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="91"/>
+        <CursorPos X="105" Y="115"/>
+        <UsageCount Value="4"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\Peach project\Peach main source code\Packages\WordMemo\wmemo.pas"/>
+        <UnitName Value="WMemo"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="231"/>
+        <CursorPos X="10" Y="245"/>
+        <UsageCount Value="4"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\..\Peach project\Peach main source code\Packages\Peach\commonstringfunctions.pas"/>
+        <UnitName Value="CommonStringFunctions"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="18"/>
+        <UsageCount Value="36"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\Peach project\Peach main source code\Packages\PythonPackage\pymemo.pas"/>
+        <UnitName Value="PyMemo"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="89"/>
+        <CursorPos X="42" Y="101"/>
+        <UsageCount Value="10"/>
+      </Unit9>
+    </Units>
+    <JumpHistory Count="28" HistoryIndex="27">
+      <Position1>
+        <Filename Value="filehandle.pas"/>
+        <Caret Line="39" Column="22" TopLine="24"/>
+      </Position1>
+      <Position2>
+        <Filename Value="main.pas"/>
+        <Caret Line="9" Column="3"/>
+      </Position2>
+      <Position3>
+        <Filename Value="main.pas"/>
+        <Caret Line="63" Column="3" TopLine="39"/>
+      </Position3>
+      <Position4>
+        <Filename Value="main.pas"/>
+        <Caret Line="64" Column="13" TopLine="39"/>
+      </Position4>
+      <Position5>
+        <Filename Value="main.pas"/>
+        <Caret Line="65" Column="13" TopLine="40"/>
+      </Position5>
+      <Position6>
+        <Filename Value="main.pas"/>
+        <Caret Line="71" Column="13" TopLine="43"/>
+      </Position6>
+      <Position7>
+        <Filename Value="main.pas"/>
+        <Caret Line="65" Column="17" TopLine="43"/>
+      </Position7>
+      <Position8>
+        <Filename Value="main.pas"/>
+        <Caret Line="63" Column="44" TopLine="45"/>
+      </Position8>
+      <Position9>
+        <Filename Value="main.pas"/>
+        <Caret Line="47" TopLine="35"/>
+      </Position9>
+      <Position10>
+        <Filename Value="main.pas"/>
+        <Caret Line="48" TopLine="36"/>
+      </Position10>
+      <Position11>
+        <Filename Value="main.pas"/>
+        <Caret Line="49" TopLine="37"/>
+      </Position11>
+      <Position12>
+        <Filename Value="main.pas"/>
+        <Caret Line="48" TopLine="36"/>
+      </Position12>
+      <Position13>
+        <Filename Value="main.pas"/>
+        <Caret Line="50" TopLine="43"/>
+      </Position13>
+      <Position14>
+        <Filename Value="main.pas"/>
+        <Caret Line="56" TopLine="56"/>
+      </Position14>
+      <Position15>
+        <Filename Value="filehandle.pas"/>
+        <Caret Line="16" Column="64" TopLine="3"/>
+      </Position15>
+      <Position16>
+        <Filename Value="filehandle.pas"/>
+        <Caret Line="12" Column="49" TopLine="3"/>
+      </Position16>
+      <Position17>
+        <Filename Value="filehandle.pas"/>
+        <Caret Line="19" Column="54" TopLine="4"/>
+      </Position17>
+      <Position18>
+        <Filename Value="filehandle.pas"/>
+        <Caret Line="12" Column="49" TopLine="4"/>
+      </Position18>
+      <Position19>
+        <Filename Value="filehandle.pas"/>
+        <Caret Line="8" Column="38"/>
+      </Position19>
+      <Position20>
+        <Filename Value="main.pas"/>
+        <Caret Line="9" Column="3" TopLine="2"/>
+      </Position20>
+      <Position21>
+        <Filename Value="main.pas"/>
+        <Caret Line="79" Column="69" TopLine="65"/>
+      </Position21>
+      <Position22>
+        <Filename Value="main.pas"/>
+        <Caret Line="92" Column="33" TopLine="77"/>
+      </Position22>
+      <Position23>
+        <Filename Value="filehandle.pas"/>
+        <Caret Line="19" Column="30" TopLine="13"/>
+      </Position23>
+      <Position24>
+        <Filename Value="filehandle.pas"/>
+        <Caret Line="22" Column="27" TopLine="13"/>
+      </Position24>
+      <Position25>
+        <Filename Value="main.pas"/>
+        <Caret Line="97" Column="47" TopLine="74"/>
+      </Position25>
+      <Position26>
+        <Filename Value="pythonmemo.pas"/>
+        <Caret Line="54" Column="13" TopLine="46"/>
+      </Position26>
+      <Position27>
+        <Filename Value="pythonmemo.pas"/>
+        <Caret Line="171" Column="24" TopLine="155"/>
+      </Position27>
+      <Position28>
+        <Filename Value="main.pas"/>
+        <Caret Line="96" Column="65" TopLine="4"/>
+      </Position28>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
